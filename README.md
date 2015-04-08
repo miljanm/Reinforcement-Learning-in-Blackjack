@@ -2,7 +2,8 @@
 Implementation of several reinforcement learning algorithms used to play a variation of blackjack
 
 
-In order to run all the algorithms just run main.py
+In order to run all the algorithms just run main.py.
+
 This will execute test_all_algorithms() function which runs MC, SARSA and Linear Function Approximation for SARSA with plots showing the results.
 
 Details about other modules:
